@@ -1,0 +1,7 @@
+0000.000 (1) Opened log file at time: Wed, 11 May 2022 18:11:59 +0000 on http://vicaptain.ga
+0000.012 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.11 WP: 5.9.3 PHP: 8.0.17 (fpm-fcgi, Linux ip-172-26-1-133 4.19.0-20-cloud-amd64 #1 SMP Debian 4.19.235-1 (2022-03-17) x86_64) MySQL: 10.6.7-MariaDB (max packet size=16777216) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 9.7M | 12M) multisite: N openssl: OpenSSL 1.1.1n  15 Mar 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.022 (1) Free space on disk containing Updraft's temporary directory: 54140 MB
+0000.036 (1) Requesting backup semaphore lock (93f660cffaa9)
+0000.057 (1) [Debug] Lock option (updraft_lock_93f660cffaa9, wp_options) was created in the database
+0000.069 (1) [Info] Lock (updraft_lock_93f660cffaa9, wp_options) acquired after initialising the database
+0000.084 (1) This backup task (93f660cffaa9) is either complete or began over 2 days ago: ending (1652292719.9595, ) (existing jobdata keys: )
